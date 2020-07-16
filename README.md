@@ -21,7 +21,7 @@ npm i
 Once the installation process has finished
 
 ```bash
-cd weather
+cd weatherApp
 npm start
 ```
 
